@@ -2,6 +2,7 @@
 
 | Sample | Code | Open in Colab |
 |:------------|:--------:|:-------------:|
+| 🧙  HF jobs + TRL fine tuning script    | [hf_jobs_trl_fine_tuning.sh](hf_jobs_trl_fine_tuning.sh)     | — |
 | 🧙  vllm+VLM transformers model impl    | [vllm_transformers_vlm.py](vllm_transformers_vlm.py)     | — |
 | 🧪 SmolLM3-3B Inference examples        | [smollm3_3b_inference.ipynb](smollm3_3b_inference.ipynb)     | <a href="https://colab.research.google.com/github/sergiopaniego/samples/blob/main/smollm3_3b_inference.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
 | 🤖 Gemma3n multimodal inference examples via pipeline        | [gemma3n_inference_via_pipeline.ipynb](gemma3n_inference_via_pipeline.ipynb)     | <a href="https://colab.research.google.com/github/sergiopaniego/samples/blob/main/gemma3n_inference_via_pipeline.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
